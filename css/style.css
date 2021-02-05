@@ -1,7 +1,7 @@
 body{
     background: #000000;
     color: #ffffff;
-    font-family: "Times New Roman", 'Sans-Serif';
+    font-family: "Times New Roman", sans-serif;
 }
 
 h1{
@@ -46,15 +46,18 @@ div{
     background: yellow;
     text-align: right;
     color: black;
+}
+#yellow h2{
     text-shadow: 4px 4px 2px #c7e2c7;
 }
+
 
 #green{
     background: #008000;
     text-align: left;
 }
 
-footer p{
-    padding: 10px;
+footer{
+    padding: 0px 10px 10px 0px;
     text-align: center;
 }
